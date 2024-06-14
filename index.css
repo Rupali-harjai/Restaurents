@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.online-status {
+    position: fixed;
+    bottom: 20px; 
+    right: 20px; 
+  }
