@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAIA;;;;AAIA","sources":["index.css"],"sourcesContent":["#app{\r\n    display: flex;\r\n    margin: 10px;\r\n}\r\n#header{\r\n    display: flex;\r\n}\r\n\r\n.main_logo img{\r\n    width:200px;\r\n    height:100%;\r\n}"],"names":[],"version":3,"file":"react-project.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}

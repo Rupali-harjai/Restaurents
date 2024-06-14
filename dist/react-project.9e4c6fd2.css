@@ -1,0 +1,15 @@
+#app {
+  margin: 10px;
+  display: flex;
+}
+
+#header {
+  display: flex;
+}
+
+.main_logo img {
+  width: 200px;
+  height: 100%;
+}
+
+/*# sourceMappingURL=react-project.9e4c6fd2.css.map */
