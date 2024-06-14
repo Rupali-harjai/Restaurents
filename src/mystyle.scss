@@ -1,0 +1,28 @@
+$myFont: Helvetica, sans-serif;
+$myColor: rgb(54, 41, 41);
+$myFontSize: 18px;
+$myWidth: 680px;
+
+body {
+  font-family: $myFont;
+  font-size: $myFontSize;
+  color: $myColor;
+}
+a{
+  color:$myColor;
+  text-decoration: none;
+}
+
+
+
+#container {
+  width: $myWidth;
+}         
+
+@mixin bordered($color, $width) {
+  border: $width solid $color;
+}
+
+.testing {
+  @include bordered(grey, 2px);
+}
